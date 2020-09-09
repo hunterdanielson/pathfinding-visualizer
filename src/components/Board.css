@@ -1,0 +1,8 @@
+.board {
+  display: grid;
+  margin: 100px 0 0;
+}
+
+.row {
+  white-space: nowrap;
+}
